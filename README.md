@@ -46,7 +46,7 @@ Materiały z zajęć _Statystyka Matematyczna_ prowadzonych na Wydziale Matematy
  <tr>
     <td>6</td>
     <td>27.05</td>
-    <td>Weryfikacja hipotez</td>
+    <td><a href="https://github.com/kozaka93/2025L-MathematicalStatistics/tree/main/lab06">Weryfikacja hipotez</a></td>
   </tr>
  <tr>
     <td>7</td>
